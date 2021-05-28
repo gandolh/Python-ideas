@@ -1,0 +1,5 @@
+Some text over|<start of text>| here.
+Another|<end of text>| text.
+Here is |<start of text>| another example |<end of text>|
+|<start of text>|Repeating some text
+ for exampling here.|<end of text>|
